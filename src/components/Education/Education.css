@@ -1,0 +1,8 @@
+.edu-list{ display:flex; gap:16px; margin-top:12px; }
+.edu-item{ flex:1; padding:14px; border-radius:10px; background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.02)); }
+.edu-item h4{ margin:0 0 6px; color:#f4f8ff }
+.edu-item p{ margin:4px 0; color:var(--muted) }
+
+@media (max-width:840px){
+  .edu-list{ flex-direction:column; }
+}

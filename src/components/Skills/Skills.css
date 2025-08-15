@@ -1,0 +1,8 @@
+.skill-grid{ display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-top:12px; }
+.skill-card{ padding:14px; border-radius:10px; background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.02)); box-shadow: 0 8px 14px rgba(2,6,23,0.6); }
+.skill-card h4{ margin:0 0 6px; color:#eaf4ff; }
+.skill-card p{ color:var(--muted); margin:0; }
+
+@media (max-width:840px){
+  .skill-grid{ grid-template-columns:1fr; }
+}

@@ -1,0 +1,4 @@
+.contact-grid{ display:grid; grid-template-columns: repeat(auto-fit, minmax(200px,1fr)); gap:12px; margin-top:12px; }
+.contact-card{ padding:14px; border-radius:10px; background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.02)); color:var(--muted); }
+.contact-card h4{ margin:0 0 6px; color:#f1fbff; }
+.contact-card a{ color:var(--accent2); text-decoration:none; }
