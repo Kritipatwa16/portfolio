@@ -17,7 +17,7 @@ export default function Home(){
 
         <div className="hero-right card">
           <h3>Quick Info</h3>
-          <p><strong>Email:</strong> <a href="mailto:krit.patwa15@gmail.com">krit.patwa15@gmail.com</a></p>
+          <p><strong>Email:</strong> <a href="mailto:kriti.patwa15@gmail.com">kriti.patwa15@gmail.com</a></p>
           <p><strong>Phone:</strong> <a href="tel:+916377792777">+91 63777 92777</a></p>
           <p><strong>Location:</strong> Udaipur, Rajasthan, India</p>
           <p style={{marginTop:8}}><strong>Open to:</strong> Internships & Full-time roles</p>
