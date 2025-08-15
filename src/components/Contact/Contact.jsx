@@ -8,7 +8,7 @@ export default function Contact(){
       <div className="contact-grid">
         <div className="contact-card">
           <h4>Email</h4>
-          <p><a href="mailto:krit.patwa15@gmail.com">krit.patwa15@gmail.com</a></p>
+          <p><a href="mailto:kriti.patwa15@gmail.com">krit.patwa15@gmail.com</a></p>
         </div>
 
         <div className="contact-card">
